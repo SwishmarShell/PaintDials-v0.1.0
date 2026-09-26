@@ -3,6 +3,12 @@
 ### ペイントソフトの外部ツール。
 
 今回の初期バージョンは、ペイントソフト 【 Krita 】 の使用を、対象としています。<br>
+
+- English version is available here: [EN_REDME.md](https://github.com/SwishmarShell/ASoVtetra_version0.5.1/blob/master/EN_REDME.md)
+- Download
+You can download the latest version from the Releases page:
+[https://github.com/SwishmarShell/ASoVtetra_version0.5.1/releases/latest](https://github.com/SwishmarShell/ASoVtetra_version0.5.1/releases/latest)<br>
+
 ## Features
 > ペイントソフト 【 Krita 】 との連携<br>
 > JSON ファイルを経由して、連携<br>
