@@ -7,7 +7,7 @@
 - English version is available here: [EN_REDME.md](https://github.com/SwishmarShell/PaintDials-v0.1.0/blob/master/EN_REDME.md)
 - Download
 You can download the latest version from the Releases page:
-[https://github.com/SwishmarShell/ASoVtetra_version0.5.1/releases/latest](https://github.com/SwishmarShell/ASoVtetra_version0.5.1/releases/latest)<br>
+  [Release PaintDials v0.1.0 (x64).zip](https://github.com/SwishmarShell/PaintDials-v0.1.0/releases/tag/v0.1.0)<br>
 
 ## Features
 > ペイントソフト 【 Krita 】 との連携<br>
