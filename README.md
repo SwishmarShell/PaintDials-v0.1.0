@@ -15,7 +15,7 @@
 >
  
 ## Screenshot
-![ Lunch Up ](https://preview 0.1.0_PNG1.png)<br>
+![](https://github.com/SwishmarShell/PaintDials-v0.1.0/blob/master/preview%200.1.0_PNG.png "起動画面")<br>
 
 ## Requirements
 > Windows 10 / 11 (x64)<br>
