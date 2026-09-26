@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using System.IO;
 using System.Text.Json;
 using System.Windows;
@@ -281,8 +281,9 @@ namespace PaintDials;
 
     private void SaveJson()
     {
-        string dir =
-        @"C:\dev\TestTemp\PaintDials";
+        string dir = System.IO.Path.Combine(
+         Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments),
+        "PaintDials");
 
         Directory.CreateDirectory(dir);
 
