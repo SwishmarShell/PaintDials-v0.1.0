@@ -2,6 +2,10 @@
 
 ### External Tool for Paint Software.
 ### This version is target Paint Soft [ Krita ].
+>- Download
+You can download the latest version from the Releases page:
+  [Release PaintDials v0.1.0 (x64).zip](https://github.com/SwishmarShell/PaintDials-v0.1.0/releases/tag/v0.1.0)<br>
+
 
 ## Features
 >- Link Paint Softwe [ Krita ]<br>
